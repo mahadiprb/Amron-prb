@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amron-prb Website</title>
+</head>
+
+<body>
+    <h1>Welcome to Amron-prb</h1>
+
+    <p>আমার ওয়েবসাইটে আপনাকে স্বাগতম।</p>
+
+    <h2>আমার ডকুমেন্ট</h2>
+
+    <p>প্রয়োজনীয় ডকুমেন্টগুলো এখানে সংরক্ষিত থাকবে।</p>
+</body>
+</html>
